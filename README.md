@@ -8,3 +8,5 @@ and generate css by running
     sass --sourcemap=none --update .
 
 in the `gnome-shell` folder.
+
+When having *User Themes* extension installed, you can do this directly in your `~/.themes` folder and run `rt` via `Ctrl-F2` to reload the theme immediately.
