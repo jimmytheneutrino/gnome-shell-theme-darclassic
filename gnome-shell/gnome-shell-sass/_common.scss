@@ -833,6 +833,11 @@ StScrollBar {
         color: transparentize($fg_color,0.85);
         opacity: 0.5;
       }
+      .calendar-week-number {
+        background: none;
+        font-weight: bold;
+        color: $selected_bg_color;
+      }
 
       /* Message list */
       .message-list {
